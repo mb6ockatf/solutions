@@ -8,5 +8,6 @@ def alphanumeric(password: str) -> bool:
     return False
 """
 
+
 def alphanumeric(password: str) -> bool:
     return password.isalnum()

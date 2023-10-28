@@ -3,6 +3,7 @@
 
 from math import floor as round
 
+
 def format_duration(seconds: int):
     if seconds == 0:
         return "now"

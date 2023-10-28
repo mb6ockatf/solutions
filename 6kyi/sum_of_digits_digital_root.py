@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # https://www.codewars.com/kata/541c8630095125aba6000c00
 
+
 def digital_root(n: int) -> int:
     n = list(str(n))
     counter = 0

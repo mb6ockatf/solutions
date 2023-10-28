@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # https://www.codewars.com/kata/5266876b8f4bf2da9b000362
 
+
 def likes(names: list) -> str:
     match len(names):
         case 0:

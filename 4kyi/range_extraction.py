@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
 
+
 def solution(args: list) -> str:
     buffer = []
     sequence = []
@@ -12,10 +13,14 @@ def solution(args: list) -> str:
         else:
             if len(sequence) < 3:
                 buffer = buffer + sequence
-                sequence = [str(i),]
+                sequence = [
+                    str(i),
+                ]
             else:
                 record = sequence[0] + "-" + sequence[-1]
-                sequence = [str(i),]
+                sequence = [
+                    str(i),
+                ]
                 buffer.append(record)
     if len(sequence) < 3:
         buffer = buffer + sequence
