@@ -1,0 +1,151 @@
+.TL
+Here are numbers of all maths ege solutions I've ever completed
+.AU
+@mb6ockatf
+.AI
+Learning myself.
+.AB
+https://math-ege.sdamgia.ru/
+.AE
+.NH 1.1
+Simple Planimetry
+27325
+639099
+
+.NH
+Vectors
+.PP
+SHIT!!
+.NH
+Stereometry
+.NH
+Simple Probability Theory
+
+.NH
+Probability Theory the Hard Way
+
+320171
+320196
+320200
+320210
+320449
+320523
+320741
+320999
+500998
+508767
+508769
+508775
+508780
+508791
+508797
+508808
+508817
+508819
+508830
+508836
+508840
+508846
+508850
+508851
+508854
+508856
+508866
+508868
+508869
+508870
+508890
+508891
+509078
+509081
+509313
+509332
+509335
+509352
+509531
+523391
+530683
+541369
+549305
+561720
+624112
+629457
+639858
+639909
+639910
+
+.NH
+Simple Equations
+.NH
+Calculations & Transformations
+.NH
+Derivative & Primitive
+.NH
+Tasks with Practical Problems
+.NH
+Texted Problems
+.NH
+Function's Graphs
+.NH
+Minimal & Maximal Function Values
+.NH
+Equations
+.NH
+Stereometry the Hard Way
+.NH
+Non-Equal Expressions
+.NH
+Financial Task
+
+506950
+506955
+506958
+507275
+507278
+510075
+511283
+513687
+514620
+517203
+517568
+518147
+519476
+519518
+520787
+520806
+520825
+520872
+521008
+526343
+526690
+529734
+530386
+531025
+541264
+545035
+626507
+627927
+628028
+633560
+639754
+642024
+
+.NH
+Planimetry the Hard Way
+525099
+
+.NH
+Parameter
+
+.NH
+Numbers & Their Features
+502119
+509612
+512893
+514518
+517572
+521000
+529584
+525029
+556606
+632971
