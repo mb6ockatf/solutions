@@ -22,3 +22,6 @@ style:
 
 clean:
 	rm -rf main
+
+docs:
+	groff -ms *.ms -T pdf > completed_tasks.pdf
