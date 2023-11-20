@@ -7,17 +7,18 @@ Learning myself.
 .AB
 https://math-ege.sdamgia.ru/
 .AE
-.NH 1.1
+
+.NH
 Simple Planimetry
 27325
 639099
 
 .NH
 Vectors
-.PP
-SHIT!!
+
 .NH
 Stereometry
+
 .NH
 Simple Probability Theory
 
@@ -61,6 +62,7 @@ Probability Theory the Hard Way
 509313
 509332
 509335
+509348
 509352
 509531
 523391
@@ -69,6 +71,7 @@ Probability Theory the Hard Way
 549305
 561720
 624112
+629456
 629457
 639858
 639909
@@ -76,24 +79,43 @@ Probability Theory the Hard Way
 
 .NH
 Simple Equations
+
 .NH
 Calculations & Transformations
+
 .NH
 Derivative & Primitive
+
 .NH
 Tasks with Practical Problems
+27992
+41117
+
 .NH
 Texted Problems
+
 .NH
 Function's Graphs
+
 .NH
 Minimal & Maximal Function Values
+
 .NH
 Equations
+
 .NH
 Stereometry the Hard Way
+
 .NH
 Non-Equal Expressions
+511239
+511504
+516382
+525119
+530826
+548809
+645665
+
 .NH
 Financial Task
 
@@ -116,6 +138,7 @@ Financial Task
 520825
 520872
 521008
+526293
 526343
 526690
 529734
@@ -136,16 +159,38 @@ Planimetry the Hard Way
 
 .NH
 Parameter
+484651
+485982
+500135
+500350
+501988
+515611
+515767
+520999
+522099
+526257
+526329
+529583
+622675
+630666
+630674
+638906
+643165
 
 .NH
 Numbers & Their Features
 502119
+502079
+505503
 509612
 512893
+512994
 514518
+514532
 517572
 521000
 529584
 525029
+551767
 556606
 632971
