@@ -84,6 +84,9 @@ Handling Symbol Line
 
 .NH
 Handling Numeric Data
+27422
+27850
+27851
 
 .NH
 Handling Numeric Data-2
