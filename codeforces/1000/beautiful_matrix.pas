@@ -1,4 +1,5 @@
 program BeautifulMatrix;
+(* https://codeforces.com/problemset/problem/263/A *)
 
 var
   coord_x, coord_y, line_number: Integer;
