@@ -12,9 +12,9 @@ for _ in range(tests):
     polykarp = sportsmen_params[0]
     for person in sportsmen_params[1:]:
         if person[0] >= polykarp[0] and person[1] >= polykarp[1]:
-                print(-1)
-                error = True
-                break
+            print(-1)
+            error = True
+            break
     if error:
         continue
     print(polykarp[0])

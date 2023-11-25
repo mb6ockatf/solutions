@@ -145,14 +145,16 @@ def validate_battlefield(field: list) -> bool:
                 and not check_field(field, row_index, column_index + 1)
             ):
                 boat_length_counter = 1
-                following_square = field[row_index - boat_length_counter][column_index]
+                following_square = field[row_index - boat_length_counter][
+                    column_index
+                ]
                 while following_square:
                     field[row_index - boat_length_counter][column_index] = 0
                     boat_length_counter += 1
                     try:
-                        following_square = field[row_index - boat_length_counter][
-                            column_index
-                        ]
+                        following_square = field[
+                            row_index - boat_length_counter
+                        ][column_index]
                     except IndexError:
                         break
                 field[row_index][column_index] = 0
@@ -168,7 +170,9 @@ def validate_battlefield(field: list) -> bool:
                 and not check_field(field, row_index + 1, column_index)
             ):
                 boat_length_counter = 1
-                following_square = field[row_index][column_index + boat_length_counter]
+                following_square = field[row_index][
+                    column_index + boat_length_counter
+                ]
                 while following_square:
                     field[row_index][column_index + boat_length_counter] = 0
                     boat_length_counter += 1
@@ -191,14 +195,16 @@ def validate_battlefield(field: list) -> bool:
                 and not check_field(field, row_index, column_index - 1)
             ):
                 boat_length_counter = 1
-                following_square = field[row_index + boat_length_counter][column_index]
+                following_square = field[row_index + boat_length_counter][
+                    column_index
+                ]
                 while following_square:
                     field[row_index + boat_length_counter][column_index] = 0
                     boat_length_counter += 1
                     try:
-                        following_square = field[row_index + boat_length_counter][
-                            column_index
-                        ]
+                        following_square = field[
+                            row_index + boat_length_counter
+                        ][column_index]
                     except IndexError:
                         break
                 field[row_index][column_index] = 0
@@ -214,7 +220,9 @@ def validate_battlefield(field: list) -> bool:
                 and not check_field(field, row_index - 1, column_index)
             ):
                 boat_length_counter = 1
-                following_square = field[row_index][column_index - boat_length_counter]
+                following_square = field[row_index][
+                    column_index - boat_length_counter
+                ]
                 while following_square:
                     field[row_index][column_index - boat_length_counter] = 0
                     boat_length_counter += 1
