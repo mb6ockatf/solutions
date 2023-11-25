@@ -13,6 +13,11 @@ Informational models
 
 .NH
 Boolean Tables
+15912
+18614
+28538
+45236
+47206
 
 .NH
 Relational Databases
