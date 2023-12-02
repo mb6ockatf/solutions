@@ -63,6 +63,14 @@ Logical Expressions
 .NH
 Recursive Algorithms
 
+4657
+29664
+36871
+57423
+58226
+59761
+59841
+
 .NH
 Handling Number Sequences
 
