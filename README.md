@@ -6,7 +6,7 @@ harder than 7 kyi), [leetcode](https://leetcode.com/mb6ockatf/) and
 
 i use this brainfuck interpreter:
 
-[![bf_interpreter_gist](https://github-readme-stats.vercel.app/api/gist?id=8bd5271f552a182ac3d27b0d6bb5d73e&show_owner=true&theme=gruvbox)](
+[![bf_interpreter_gist](https://github-readme-stats.vercel.app/api/gist?id=8ab374623a3b3d2011438dd2c491d1db7&show_owner=true&theme=gruvbox)](
     https://gist.github.com/mb6ockatf/8bd5271f552a182ac3d27b0d6bb5d73e
 )
 
