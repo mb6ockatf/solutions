@@ -11,8 +11,11 @@ while datas:
     while changed:
         changed = False
         for index in range(len(data) - 1, 0, -1):
-            if data[index] == "B" and data[index - 1] == "A" and \
-                performed[index]:
+            if (
+                data[index] == "B"
+                and data[index - 1] == "A"
+                and performed[index]
+            ):
                 changed = True
                 performed[index] = False
                 data[index] = "A"

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env pypy3
 def f(n: int) -> int:
     if n == 1:
         return 1

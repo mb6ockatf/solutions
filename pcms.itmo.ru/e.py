@@ -1,8 +1,6 @@
+#!/usr/bin/env python3
 a, b, c, d = list(map(int, input().split()))
-variants = [
-        [(a, b), (c, d)],
-        [(a, d), (c, b)],
-        [(a, c), (b, d)]]
+variants = [[(a, b), (c, d)], [(a, d), (c, b)], [(a, c), (b, d)]]
 max_sum = float("-inf")
 for variant in variants:
     s1, s2 = variant[0], variant[1]

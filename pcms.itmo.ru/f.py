@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def max_divisors_number(n):
     max_divisors = 0
     result = 0

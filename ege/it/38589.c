@@ -1,4 +1,4 @@
-/* https://inf-ege.sdamgia.ru/problem?id=38589 
+/* https://inf-ege.sdamgia.ru/problem?id=38589
  * BROKEN
  */
 #include <stdio.h>
@@ -9,19 +9,18 @@ const unsigned long long int PRECISION = 10ULL;
 unsigned __int128 ipow(unsigned __int128 base, unsigned __int128 exp);
 unsigned __int128 ipow(unsigned __int128 base, unsigned __int128 exp)
 {
-    unsigned __int128 result = 1ULL;
-    while( exp )
-    {
-        if ( exp & 1 )
-        {
-            result *= (unsigned __int128)base;
-        }
-        exp >>= 1;
-        base *= base;
-    }
-    return result;
+	unsigned __int128 result = 1ULL;
+	while( exp ) {
+		if ( exp & 1 ) {
+			result *= (unsigned __int128)base;
+		}
+		exp >>= 1;
+		base *= base;
+	}
+	return result;
 }
-int main(void) {
+int main(void)
+{
 	unsigned __int128 number1, number2, number3, number4, number5, sum;
 	number1 = ipow(4ULL, 38ULL);
 	number2 = 2ULL * ipow(4ULL, 23ULL);
