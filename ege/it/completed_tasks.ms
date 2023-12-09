@@ -78,10 +78,12 @@ Handling Number Sequences
 Robot Money-Collectors
 
 .NH
-Best Strategy: 1
+Best Strategy: 1 & 2
 
-.NH
-Best Strategy: 2
+27754
+27790
+27791
+27792
 
 .NH
 Best Strategy: 3
