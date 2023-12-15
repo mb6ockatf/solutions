@@ -25,3 +25,6 @@ clean:
 
 docs:
 	groff -ms *.ms -T pdf > completed_tasks.pdf
+
+d2: $(target_file)
+	d2 --theme=200 -l elk --scale 1 --pad 0 $^
