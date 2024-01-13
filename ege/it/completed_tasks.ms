@@ -11,16 +11,31 @@ https://inf-ege.sdamgia.ru/
 .NH
 Informational models
 
+10306
+10404
+18431
+46959
+63017
+
 .NH
 Boolean Tables
+
 15912
 18614
+27531
 28538
+29187
+33747
 45236
 47206
+55798
+58510
 
 .NH
 Relational Databases
+
+37488
+51972
 
 .NH
 Information Coding & Decoding

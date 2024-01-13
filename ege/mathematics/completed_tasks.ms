@@ -198,6 +198,7 @@ Planimetry the Hard Way
 .NH
 Parameter
 
+484641
 484651
 485982
 500135
@@ -207,6 +208,7 @@ Parameter
 505496
 505502
 514484
+514524
 515611
 515767
 520999
@@ -219,7 +221,9 @@ Parameter
 526329
 526344
 529583
+548407
 622675
+630221
 630666
 630674
 638906
@@ -247,3 +251,24 @@ Numbers & Their Features
 560143
 560153
 632971
+
+.NH 1
+Yashenko book
+
+.NH 2
+PROFILE LEVEL
+
+.NH 3
+Practical tasks (№ 3, № 8)
+
+.NH 3
+Algebra (№ 5, № 6, № 9, № 10, № 4)
+
+.NH 3
+Analysis (№ 7, № 11)
+
+.NH 3
+Geometry (№ 1, № 2)
+
+.NH 2
+BASE LEVEL
