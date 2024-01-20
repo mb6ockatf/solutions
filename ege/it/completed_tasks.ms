@@ -40,6 +40,12 @@ Relational Databases
 .NH
 Information Coding & Decoding
 
+11261
+15915
+18074
+48425
+63053
+
 .NH
 Analysis & Creating Algorithms
 
@@ -49,6 +55,12 @@ Algorithms' Results
 .NH
 Infromation Coding & Decoding. Transmitting Data
 
+18815
+23907
+25839
+35465
+55803
+
 .NH
 Words Bruteforcing and Number Systems
 
@@ -57,6 +69,10 @@ Tables
 
 .NH
 Search for Symbols
+
+27585
+38944
+63059
 
 .NH
 Quantity of information
