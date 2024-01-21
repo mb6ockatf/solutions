@@ -1,4 +1,10 @@
 #!/usr/bin/make -f
 
-build:
-	groff -ms *.ms -T pdf > completed_tasks.pdf
+tasks:
+	groff -k -ms completed_tasks.ms -T pdf > completed_tasks.pdf
+
+words:
+	typst c words.typ
+
+stress:
+	typst c stress.typ
