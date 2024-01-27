@@ -1,2 +1,20 @@
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
+*.md linguist-documentation=false
+*.md linguist-detectable
+*.adoc linguist-documentation=false
+*.adoc linguist-detectable
+*.rst linguist-documentation=false
+*.rst linguist-detectable
+*.sql linguist-documentation=false
+*.sql linguist-detectable
+*.creole linguist-documentation=false
+*.creole linguist-detectable
+*.gmi linguist-documentation=false
+*.gmi linguist-detectable
+*.textile linguist-documentation=false
+*.textile linguist-detectable
+*.txt linguist-documentation=false
+*.txt linguist-detectable
+*.json linguist-documentation=false
+*.json linguist-detectable
+*.csv linguist-documentation=false
+*.csv linguist-detectable
