@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
 isPrime(){
     if [[ $1 -eq 2 ]] || [[ $1 -eq 3 ]]; then
