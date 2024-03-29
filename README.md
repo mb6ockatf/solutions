@@ -13,6 +13,11 @@ i use this brainfuck interpreter:
 in codewars, nasm and brainfuck has their own folders, because even 78 kyi
 tasks in these languages are hard
 
+<details>
+  <summary><h2>Problems</h2></summary>
+  - primes_in_numbers.sh: solution too slow
+</details>
+
 ------
 
 <img src="https://github.r2v.ch/codewars?user=mb6ockatf&stroke=black&top_languages=true&hide_clan=true&theme=midnight_purple&name=mb6ockatf">

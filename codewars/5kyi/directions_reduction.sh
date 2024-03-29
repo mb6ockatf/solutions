@@ -4,16 +4,14 @@
 parameter=$1
 changed=true
 result=$parameter
-while $changed
-do
+while $changed; do
     parameter=$result
     if [ ${#parameter} -eq 1 ]; then
         break
     fi
     result=""
     changed=false
-    for ((index=0; index <= ${#parameter}; index++))
-    do
+    for ((index=0; index <= ${#parameter}; index++)); do
         character="${parameter:index:1}"
         let next=$index+1
         nextchar="${parameter:next:1}"
@@ -53,4 +51,4 @@ do
         unset next
     done
 done
-echo $parameter
+echo "$parameter"
