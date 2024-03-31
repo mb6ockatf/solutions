@@ -27,17 +27,38 @@ isPrime(){
 # echo -n "nextPrime 2 : "
 # echo $(nextPrime 2)
 primeFactors() {
-	local lastPrime=1
+	local lastPrime=2
 	local number="$1"
 	if "$(isPrime "$number")"; then
 		echo "($number)"
 		return 0
 	fi
-	local result=""; local counter
+	local result=""
+	local counter=0
+	while (( number % lastPrime == 0)); do
+		number=$((number / lastPrime))
+		counter=$((counter + 1))
+	done
+	if [[ $counter -eq 1 ]]; then
+		result="${result}($lastPrime)"
+	elif [[ $counter -ne 0 ]]; then
+		result="${result}($lastPrime**$counter)"
+	fi
+	lastPrime=3
+	counter=0
+	while (( number % lastPrime == 0)); do
+		number=$((number / lastPrime))
+		counter=$((counter + 1))
+	done
+	if [[ $counter -eq 1 ]]; then
+		result="${result}($lastPrime)"
+	elif [[ $counter -ne 0 ]]; then
+		result="${result}($lastPrime**$counter)"
+	fi
 	while (( number > 1 )); do
-		lastPrime=$((lastPrime + 1))
+		lastPrime=$((lastPrime + 2))
 		while ! $(isPrime $lastPrime); do
-			lastPrime=$((lastPrime + 1))
+			lastPrime=$((lastPrime + 2))
 		done
 		counter=0
 		while (( number % lastPrime == 0 )); do
@@ -73,6 +94,6 @@ echo -n "$(primeFactors $(( 17 * 17 * 93 * 677 )))"
 echo "                | (3)(17**2)(31)(677)"
 echo -n "$(primeFactors 342217392)"
 echo "           | (2**4)(3)(11)(43)(15073)"
-for i in $(seq 200); do
-	primeFactors "$(shuf -i 63235-3548569 -n 1)" &>/dev/null
+for ((i=1;i<=200;i++)); do
+	primeFactors "$(shuf -i 63235-3548569 -n 1)"  # &>/dev/null
 done
