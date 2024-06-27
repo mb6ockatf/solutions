@@ -2,7 +2,6 @@
 #include<string.h>
 #include<math.h>
 #include<limits.h>
-#include<ctype.h>
 #include<stdbool.h>
 #include<stdlib.h>
 #include<stdint.h>
@@ -41,15 +40,33 @@ llu factorial(u n)
 
 void proceed(void)
 {
-	return;
+	int x, y;
+	IGUR(scanf("%i %i", &x, &y));
+	if (x > (50 - y) && y < 0) {
+		printf("new NO\n");
+		return;
+	}
+	if (y < 0 && abs(y) <= abs(x / 2)) {
+		printf("YES\n");
+		return;
+	}
+	if (y < 0) {
+		printf("NO\n");
+		return;
+	}
+	if (y > 0 && abs(x) < y) {
+		printf("YES\n");
+		return;
+	}
+	printf("YES\n");
 }
 
 int main(void)
 {
-	llu t;
-	IGUR(scanf("%llu", t));
-	while (t > 0) {
+	llu tests;
+	IGUR(scanf("%llu", &tests));
+	while (tests > 0) {
 		proceed();
-		t--;
+		tests--;
 	}
 }

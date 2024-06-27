@@ -9,7 +9,7 @@ int main(void)
 	IGUR(scanf("%hu", &n));
 	char s[n];
 	IGUR(scanf("%s", s));
-	for (int j = 1; j < n; j++){
+	for (int j = 1; j < n; j++) {
 		if (s[j - 1] != s[j]) continue;
 		r++;
 	}
