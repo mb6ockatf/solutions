@@ -1,12 +1,14 @@
 #include<stdio.h>
 #include<string.h>
+inline void IGUR() {}
+void IGUR();
 
 int main(void)
 {
 	char nickname[100];
 	short buffer = 0;
 	short distinct = 0;
-	scanf("%[^\n]s", nickname);
+	IGUR(scanf("%[^\n]s", nickname));
 	for (short i = 0; i < (short)strlen(nickname); i++) {
 		buffer = 0;
 		for (short k = 0; k < i; k++) {
