@@ -28,40 +28,40 @@ template: template.c
 t41a: 41a.c
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t59a: 59a.c
+t59a: 59a.c  # реализация, строки, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t110a: 110a.c
+t110a: 110a.c  # реализация, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
 t116a: 116a.c
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t734a: 734a.c
+t734a: 734a.c  # реализация, строки, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t1352a: 1352a.c
+t1352a: 1352a.c  # реализация, математика, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t791a: 791a.c
+t791a: 791a.c  # реализация, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t266a: 266a.c
+t266a: 266a.c  # реализация, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t546a: 546a.c
+t546a: 546a.c  # математика, перебор, реализация, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t617a: 617a.c
+t617a: 617a.c  # математика, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t977a: 977a.c
+t977a: 977a.c  # реализация, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t1352b: 1352b.c
+t1352b: 1352b.c  # конструктив, математика, 1200
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
-t1352c: 1352c.c
+t1352c: 1352c.c  # бинарный поиск, математика, 1200
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
 clean:
