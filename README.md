@@ -16,6 +16,8 @@ tasks in these languages are hard
 <details>
   <summary><h2>Problems</h2></summary>
   - primes_in_numbers.sh: solution too slow
+  - contest 167: complete
+  - 486a.c
 </details>
 
 ------
