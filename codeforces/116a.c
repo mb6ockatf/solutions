@@ -9,7 +9,7 @@ int main(void)
 	int current = 0;
 	int result = INT_MIN;
 	IGUR(scanf("%hu", &n));
-	while (n > 0){
+	while (n > 0) {
 		IGUR(scanf("%hu %hu", &a, &b));
 		current = current - a + b;
 		if (current > result) result = current;

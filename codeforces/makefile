@@ -17,7 +17,7 @@ cc_link = -lgmp -lm
 style:
 	astyle -rv --style=linux --indent=force-tab=4 --delete-empty-lines \
 	--break-closing-braces --max-code-length=80 --lineend=linux --ascii \
-	"*.c"
+	-t8 "*.c"
 
 main: main.c
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
@@ -58,10 +58,22 @@ t617a: 617a.c  # математика, 800
 t977a: 977a.c  # реализация, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
+t1873a: 1873a.c  # перебор, реализация, 800
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
 t1352b: 1352b.c  # конструктив, математика, 1200
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
+t1873b: 1873b.c  # жадные алгоритмы, математика, перебор, 800
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
 t1352c: 1352c.c  # бинарный поиск, математика, 1200
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
+t1873c: 1873c.c  # математика, реализация, 800
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
+t1873d: 1873d.c  # 2 указателя, жадные алгоритмы, реализация, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
 clean:

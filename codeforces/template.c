@@ -3,6 +3,7 @@
 #include<math.h>
 #include<limits.h>
 #include<ctype.h>
+#include<inttypes.h>
 #include<stdbool.h>
 #include<stdlib.h>
 #include<stdint.h>
@@ -46,10 +47,10 @@ void proceed(void)
 
 int main(void)
 {
-	llu t;
-	IGUR(scanf("%llu", t));
-	while (t > 0) {
+	llu tests;
+	IGUR(scanf("%llu", &tests));
+	while (tests > 0) {
 		proceed();
-		t--;
+		tests--;
 	}
 }
