@@ -11,6 +11,7 @@ def set_default():
 
 k = set_default()
 
+
 def task_47210():
     for i in range(7):
         forward(10 * k)
@@ -22,6 +23,7 @@ def task_47210():
             dot(4)
     input()
     reset()
+
 
 def task_47303():
     k = set_default()
@@ -38,6 +40,7 @@ def task_47303():
     input()
     reset()
 
+
 def task_47307():
     k = set_default()
     for _ in range(4):
@@ -52,6 +55,7 @@ def task_47307():
             dot(6, "orange")
     input()
     reset()
+
 
 def task_47390():
     k = set_default()
@@ -68,6 +72,7 @@ def task_47390():
             dot(6, "orange")
     input()
     reset()
+
 
 def task_47404():
     k = set_default()
@@ -88,6 +93,7 @@ def task_47404():
             dot(6, "pink")
     input()
     reset()
+
 
 def task_58245():
     k = set_default()
@@ -117,6 +123,7 @@ def task_58245():
     input()
     reset()
 
+
 def task_59684():
     k = set_default()
     for _ in range(2):
@@ -142,6 +149,7 @@ def task_59684():
             dot(6, "orange")
     input()
     reset()
+
 
 if __name__ == "__main__":
     task_59684()

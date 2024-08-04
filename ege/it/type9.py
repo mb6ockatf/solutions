@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from csv import reader
 
+
 def task_40984():
     counter = 0
     with open("40984.csv", "r") as file:
@@ -11,6 +12,7 @@ def task_40984():
             if s1 + s2 > s3 and s1 + s3 > s2 and s2 + s3 > s1:
                 counter += 1
     return counter
+
 
 if __name__ == "__main__":
     print(task_40984())
