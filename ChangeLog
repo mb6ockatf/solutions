@@ -1,0 +1,492 @@
+commit 67d718bc2b0a6b5da36814666e6bd4aea8f0c4c8
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 16:10:27 2024 +0300
+
+    chore(CONTRIBUTING): added
+
+commit 499d24e141fe1ae3540101e4d162792f6a96aae6
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Aug 9 20:40:06 2024 +0300
+
+    chore(COPYING): AGPL
+
+commit b1d31abc3756a0f37b7b70596dfeaf8c2cc1f267
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Wed Aug 7 16:54:02 2024 +0300
+
+    feat(ege/mathematics): parameters
+
+commit 08f9cb1c2b7ffbd1486aed121816b38f3b6c5d89
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Aug 5 00:17:31 2024 +0300
+
+    feat(ege/math): completion table
+
+commit dbf4ed86b9de2dd4b6b85082031437d5fff5fe94
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Aug 4 20:24:00 2024 +0300
+
+    feat(ege/it): solve tasks
+
+commit 5f5e0e72573850f6172f0a0c2efc806af4c9fa91
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Aug 4 14:47:09 2024 +0300
+
+    chore(gitattributes): update
+
+commit d9fe6864cc850e45ce64dea73495d27294dea0d8
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Aug 4 14:45:57 2024 +0300
+
+    revert(ege/it): move back into repo
+
+commit ed5c9743bf4c1edaa4081746f100ef4904765918
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Jun 29 00:26:27 2024 +0300
+
+    feat(codeforces): add solutions
+
+commit 5627f8f1be8427eadbaaca8e00c0a4164bcbc008
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Thu Jun 27 22:57:12 2024 +0300
+
+    chore(codewars): t desc
+    
+    add brief task descriptions in makefile
+
+commit fc9342136ad2557679d1dc42f1930f56ff1a0e71
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Thu Jun 27 22:35:01 2024 +0300
+
+    chore(README.md): add problems
+
+commit 9e07c7cfbd1db360afbbc71bd592b652c2de3bda
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Thu Jun 27 22:31:56 2024 +0300
+
+    feat(codeforces): more tasks
+
+commit 2becab32765d758de7e1d5720c022ae9cc189af2
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Thu Jun 27 16:48:33 2024 +0300
+
+    feat(codeforces): new solutions
+
+commit 1426abd81a208a163f1da12bb4e835e7a69742c5
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Jun 10 15:30:19 2024 +0300
+
+    revert(codeforces): returned
+
+commit 5a087592a579fcc786b3c5f5ba991bcc4c373e84
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Wed Jun 5 13:00:52 2024 +0300
+
+    revert: remove *.py
+
+commit 9361ed9a64ec5d27304f86dcbe280cec2f22e0ce
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat May 25 12:37:02 2024 +0300
+
+    feat(ege.it): tf tables sol file
+
+commit fb51d6fee3ae468665a0d0876b8259e9b5d91821
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Mar 31 22:49:02 2024 +0300
+
+    feat(codewars): primes_in_numbers.lua
+
+commit 9c663f6423941b92b5b2f29646ae1620fa7609d4
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Mar 29 19:04:18 2024 +0300
+
+    feat(codewars): new solutions
+
+commit 67c81996bce2aac98a831ed9d0e1b6255c460edb
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Mar 29 18:07:42 2024 +0300
+
+    refactor(shellcheck): codewars files
+
+commit f54a752a810969472319207f88068964b9664026
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Mar 29 18:00:17 2024 +0300
+
+    refactor(primes_in_numbers): shellcheck
+
+commit 23abffa113a9a806aad5bca2194c53234cd13d1e
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Mar 29 16:57:05 2024 +0300
+
+    feat(5kyi): primes_in_numbers.sh v1
+
+commit d44e699dce7c49028b4c989c38648fe67b812cc6
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Jan 27 22:44:01 2024 +0300
+
+    chore: remove pascal
+
+commit db1509013b0c4e65a5e47a5a5997ef2dd2da9d4f
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Jan 21 18:20:22 2024 +0300
+
+    feat: convert to typst
+
+commit 5fa2a765782808ccf119c00afec9f007f78d7aef
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Jan 20 13:00:16 2024 +0300
+
+    feat(ege.it): solve tasks
+
+commit ec1182ba245a0691c9c126161e6ac5902a2d88dd
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Wed Jan 17 06:54:43 2024 +0300
+
+    feat(ege.mathematics): new params
+
+commit 10503a890a267caa2533af630abe8fb83d806df7
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Jan 13 22:13:26 2024 +0300
+
+    feat(mathematics & it): solve tasks
+
+commit 7f32c3086cd9b7a3b2203581d9ebd4dfe70384e1
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Jan 8 14:07:05 2024 +0300
+
+    feat(codewars): solution; reformat
+
+commit 8890e2e51dd43fa52b37f17ca39ca4bc22962608
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 23 13:50:51 2023 +0300
+
+    chore(ege.it): convert to ipynb format
+
+commit acbcbe5254eef997b517b0be391df9be494fdf3a
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 23 13:50:14 2023 +0300
+
+    feat(ege.it): type6 solutions
+
+commit cdd87e8e852eaaf886558762392dbdf38f32ef49
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 23 00:06:37 2023 +0300
+
+    feat(ege.it): add type9 solution
+
+commit 3ec4c79046b4d31033e15cff158e09057ad322dc
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Tue Dec 19 23:58:33 2023 +0300
+
+    feat(ege.mathematics): solve params
+
+commit 84c66ae35a80ff90b3d82fe47db547f51f36ee83
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 16 20:19:25 2023 +0300
+
+    feat (ege.russian): solve type8
+
+commit 211c8cbda24adad0c6aed29bf17e1b1a36b5caec
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Dec 15 23:23:12 2023 +0300
+
+    chore: remove py files
+
+commit 1f29dc8b10a900f34d26d53803f86fa8886874ee
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Dec 15 23:13:22 2023 +0300
+
+    feat (ege.it): plan scheme
+
+commit 811f66270007fd2eb9b89b5e5e2a6dc7c113646a
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Wed Dec 13 19:42:57 2023 +0300
+
+    feat(ege.math): solve some params
+
+commit 8e0613f0a6bad3f503913f040053df74334d92e3
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Wed Dec 13 19:39:56 2023 +0300
+
+    feat(ege.math): simple equations
+
+commit 1b839ac774b0b16d049af5a63316593ea827c9db
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 9 19:25:35 2023 +0300
+
+    feat(ege.rus, ege.it): solve tasks
+    
+    - add type 7 russian tasks
+    - add type19 it tasks
+
+commit 3e77f481704ab0f0a6f29acfb353eb20586fa72a
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 9 12:12:00 2023 +0300
+
+    feat(ege.it): 20th type tasks
+
+commit 250c18a8cfee5c8c58fee012dfc78545e69bf72a
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 9 12:11:14 2023 +0300
+
+    refactor: add shebangs, refactor
+
+commit db926b18e7f0c567a2f6ed2501c78c2e641b2fb4
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 9 12:10:07 2023 +0300
+
+    chore: global formatiing makefile
+
+commit cf76f8b6b7a04bea7fe11a09d2360976e3a3d144
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 9 11:18:43 2023 +0300
+
+    chore: solve more tasks
+
+commit 40215a05f1481912a9c3eedf1a54c51d2a24bba9
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Tue Dec 5 06:14:05 2023 +0300
+
+    feat(math.russian): train stress (4th)
+
+commit 3b1b8158b7c768179e0f2ccfbe2f84dd04249a82
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Tue Dec 5 00:06:18 2023 +0300
+
+    docs(ege.maths): tasks scheme
+
+commit a5fd76cd3d3be0e14a7ce0b9c4a747fdf0246b4e
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Dec 4 23:37:10 2023 +0300
+
+    feat(math.russian): train stress (4th)
+
+commit 9292489996a84a703288d57d99a39e76ccc284cd
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Dec 3 23:39:38 2023 +0300
+
+    feat(math.russian): solve tasks
+
+commit 3510270af6e86ec0997fec055c047800cef25748
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Dec 3 20:54:56 2023 +0300
+
+    Update README.md
+
+commit 310271a81b52c98dc03bbf748c5710b878bebe9b
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Dec 3 20:53:40 2023 +0300
+
+    style: fix README.md link
+
+commit c56d234b707dd6eec6ae681854a468af421ab954
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Dec 3 20:50:40 2023 +0300
+
+    feat(pcms.itmo.ru): added solutions
+
+commit 8ca47dde9fdcd2f6eb234b4b5c4d4612e79dcaa4
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 2 12:50:58 2023 +0300
+
+    feat(ege.it): solve type16 tasks
+
+commit 30aba1d712154974416ccfcf3cfd683658c9f488
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Dec 2 00:37:12 2023 +0300
+
+    feat(ege.russian): solve more tasks
+
+commit 05d370be948137ca5ab6a6080311948b6bd33c4d
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 27 18:30:39 2023 +0300
+
+    feat(ege.math): solve more tasks
+
+commit 2280fd4435016a95a7089d4477c14d1c2ffb1d9d
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 27 18:28:16 2023 +0300
+
+    feat(codeforces): add CodeTON Round 7
+
+commit 28c37168f7d888a73df1a79d06458337a95affb3
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 27 00:07:13 2023 +0300
+
+    feat(ege.math): more tasks solved
+
+commit ac696c496ba004564666d7831e05c58ef21b326f
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Nov 25 18:33:29 2023 +0300
+
+    feat(ege.it): type9 files
+
+commit 93be0326059a74441a440f601985418d495fe9a1
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Nov 25 18:32:42 2023 +0300
+
+    feat(ege.it): type3 files
+
+commit ba921a1ce13fa34627a47e6a74a2e612147b4bee
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Nov 25 18:14:22 2023 +0300
+
+    feat(ege.it): new type2 soluutions
+
+commit 1f7a3a79c49e32e00c7f72ca6f9fd6d628aaa3f0
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Nov 25 18:11:57 2023 +0300
+
+    feat(codeforces): line trip solution
+    
+    my very first contest on codeforces.com
+
+commit ebf56816614b53ba57195441f08ebd0e2cee6391
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Nov 25 18:11:15 2023 +0300
+
+    style(python: black): improve styling
+
+commit 29183ea82516f4763f847fbf81a49b885b9b3030
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 24 22:28:23 2023 +0300
+
+    feat(ege.it): solutions
+
+commit b182d3e04006fb4a38e3af78d6a17c3abf10c856
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 24 21:09:12 2023 +0300
+
+    feat(ege.it): add solution
+
+commit 79e3fc53eace4d2d5a9d1476e5cd33703feb6ac8
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 24 19:04:16 2023 +0300
+
+    feat(codeforces: word_capitalization.py)
+
+commit de2891f280df6f2c1f0abffaebcc6086dcaeb584
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 24 19:02:53 2023 +0300
+
+    feat(ege.it): add solutions
+
+commit 7805598bcf5c4c9593af32a0bcdec8cf8df1f5c0
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 24 16:49:13 2023 +0300
+
+    feat(codeforces): helpful_maths.py
+
+commit b5c04f9b565528ef53e4b87914e563cb0ec66d5b
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 24 16:40:42 2023 +0300
+
+    feat(codeforces): more solutions
+
+commit 22ced539be266d0f40f511c564581ff867e65f4c
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 24 16:21:53 2023 +0300
+
+    chore: remove unneeded files
+
+commit 97f57b1375142cc69d2935dd6a5d63d57042f27d
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 24 16:20:38 2023 +0300
+
+    chore: ignore object files
+
+commit 8c7abdba2f90e758a9f0553e62ee6065baf2c611
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Tue Nov 21 01:03:43 2023 +0300
+
+    feat(ege.math): solve more tasks
+
+commit 9780576ab3a68f10452bd1eec08b35c7b48344bd
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Tue Nov 21 01:03:15 2023 +0300
+
+    feat(ege.russian): solve test tasks
+
+commit c92e1fb2e5b83debedf99870b95f848846272c6e
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 20 22:13:13 2023 +0300
+
+    feat(ege.english): folder added
+
+commit f6a07ab332aca76dfd8629980dcee2992f73f750
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 20 22:12:49 2023 +0300
+
+    fix(ege.math): update completed_tasks.ms
+
+commit f18a935517fc74b09843360c6535fef984001172
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 20 22:12:12 2023 +0300
+
+    feat(ege.math): update makefile
+
+commit e59326ceaf094b3c80d2c46d2341e641c7b9ced2
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 20 22:11:48 2023 +0300
+
+    feat(it.ege): add completed_tasks file
+
+commit debccc9ab5a1cbd884d28074a913399ceee59c33
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 20 22:10:43 2023 +0300
+
+    feat(ege.russian): folder added
+
+commit 9f2518a54a0438b936d6e81f021e3d1130b1abc4
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 20 20:10:02 2023 +0300
+
+    chore(ege.math): doc build system
+
+commit 0981da145af5d33808f90cf58671e795d3cc3e98
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Nov 20 20:08:40 2023 +0300
+
+    feat(ege.math): list of completed tasks
+
+commit 98c4c9ce5a69d56ccac179838fcfe15222f0e790
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Nov 17 23:20:48 2023 +0300
+
+    feat: add ege
+
+commit c054c0d9728fc0e9f79b1b4d8eb5a3230387ed63
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Nov 5 21:35:49 2023 +0300
+
+    feat: new codeforces solutions
+
+commit 45177d476e677426fada9858163f025d21061140
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Oct 29 12:55:45 2023 +0300
+
+    ... in one repo
+
+commit d31910d06fb7755255644e99f81ee78c6843e0f7
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Oct 28 13:19:25 2023 +0300
+
+    style: add badges
+
+commit aacae1dd5ed4dd3f3e45f032eeb79df1374c5588
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Oct 28 12:58:33 2023 +0300
+
+    feat: brainfuck and nasm files added
+
+commit e7eef351b92efd7195d93eb9a3c87bb868aaefcd
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Oct 28 12:13:39 2023 +0300
+
+    feat: added some existent solutions
+
+commit c69b3c54fba8c4676b2c28a148119009b8121d39
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Oct 28 10:58:56 2023 +0300
+
+    Initial commit
