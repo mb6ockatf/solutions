@@ -1,8 +1,8 @@
 #!/usr/bin/make -f
 astyle:
-	astyle -rv --style=linux --indent=force-tab=4 --delete-empty-lines \
-	--break-closing-braces --max-code-length=80 --lineend=linux --ascii \
-	"*.c"
+	astyle -rvA8T8xeyxC70z2xWYK "*.c"
+	# astyle -rvA8T8xeyxC70z2xWYK "*.h"
+	find . -name '*.orig' -exec rm -f {} +
 
 pythonblack:
 	black . --line-length=79 --color
