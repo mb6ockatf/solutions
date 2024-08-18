@@ -1,3 +1,9 @@
+commit acc32343b3970c24af1661e9d4fc625c8f645ff1
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 20:50:25 2024 +0300
+
+    feat(algorithms): kmp
+
 commit 8758b3a65c58e08256e4117a3cf1b430eab772a5
 Author: mb6ockatf <mdddmmmm@yandex.ru>
 Date:   Sat Aug 10 16:10:27 2024 +0300
