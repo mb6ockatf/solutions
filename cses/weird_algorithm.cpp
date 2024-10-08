@@ -31,7 +31,8 @@ Output:
 
 using namespace std;
 
-int main(void){
+int main(void)
+{
 	unsigned long long n;
 	cin >> n;
 	while (true) {
