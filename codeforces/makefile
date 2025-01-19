@@ -1,5 +1,5 @@
 #!/usr/bin/make -f
-cc = gcc -std=c17
+cc = gcc -std=c23
 cc_optimization = -Ofast -march=native
 #  -O3
 cc_warnings = -Werror -Wall -Wextra -Wpedantic -Wshadow -Wconversion \
@@ -74,6 +74,24 @@ t1873c: 1873c.c  # математика, реализация, 800
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
 t1873d: 1873d.c  # 2 указателя, жадные алгоритмы, реализация, 800
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
+t677a: 677a.c  # реализация, 800
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
+t271a: 271a.c  # перебор, 800
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
+t1030a: 1030a.c  # реализация, 800
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
+t58a: 58a.c  # жадные алгоритмы, строки, 1000
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
+t96a: 96a.c  # реализация, строки, 900
+	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
+
+t160a: 160a.c  # жадные алгоритмы, сортировки, 900
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
 
 clean:
