@@ -15,9 +15,8 @@ cc_link = -lgmp -lm
 .PHONY: style
 
 style:
-	astyle -rv --style=linux --indent=force-tab=4 --delete-empty-lines \
-	--break-closing-braces --max-code-length=80 --lineend=linux --ascii \
-	-t8 "*.c"
+	astyle -r -A7 --indent=force-tab=4 --delete-empty-lines \
+	--max-code-length=79 --lineend=linux -t8 "*.c"
 
 main: main.c
 	${cc} ${cc_optimization} ${cc_warnings} $^ -o $@ ${cc_link}
